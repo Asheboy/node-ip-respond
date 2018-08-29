@@ -1,0 +1,8 @@
+{
+  "name": "node-ip-respond",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Asheboy/node-ip-respond.git",
+  "author": "Ash Summers <ash.summers@gmail.com>",
+  "license": "MIT"
+}
